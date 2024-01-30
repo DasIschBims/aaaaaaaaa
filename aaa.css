@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Monocraft';
+  src: url(https://github.com/IdreesInc/Monocraft/releases/download/v3.0/Monocraft-nerd-fonts-patched.ttf);
+}
+
+:root {
+  --font-primary: 'Monocraft';
+}
